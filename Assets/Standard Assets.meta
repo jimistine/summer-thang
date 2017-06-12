@@ -1,15 +1,9 @@
-fileFormatVersion: 2
-<<<<<<< Updated upstream
-guid: 473878616de574fc99b8b6047a1aede1
-folderAsset: yes
-timeCreated: 1497302851
-=======
-guid: 16896845e85a8ce4483006563efb4b18
-folderAsset: yes
-timeCreated: 1497302841
->>>>>>> Stashed changes
-licenseType: Free
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+fileFormatVersion: 2
+guid: 16896845e85a8ce4483006563efb4b18
+folderAsset: yes
+timeCreated: 1497302841
+licenseType: Free
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
